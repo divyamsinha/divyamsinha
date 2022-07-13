@@ -38,14 +38,14 @@ April 2014 - March 2015
 
 ### Skills
 
-C++(Intermediate)
-Python(Intermediate)
-MySQL(Intermediate)
-Machine Learning(Intermediate)
-Deep Learning(Intermediate)
-Tensorflow(Intermediate)
-OpenCV(Intermediate)
-Golang(Basic)
-PHP(Basic)
-PostgreSQL(Intermediate)
+C++(Intermediate)                                                                                                                                                           
+Python(Intermediate)                                                                                                                                                        
+MySQL(Intermediate)                                                                                                                                                         
+Machine Learning(Intermediate)                                                                                                                                               
+Deep Learning(Intermediate)                                                                                                                                                
+Tensorflow(Intermediate)                                                                                                                                                     
+OpenCV(Intermediate)                                                                                                                                                         
+Golang(Basic)                                                                                                                                                               
+PHP(Basic)                                                                                                                                                            
+PostgreSQL(Intermediate)                                                                                                                                                    
 
