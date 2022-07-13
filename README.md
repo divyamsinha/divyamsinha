@@ -26,15 +26,16 @@ https://leetcode.com/Divyam_Sinha/
 ### Education 
 
 ## Maharaja Agrasen Institute of Technology, Rohini Sector 22, New Delhi — Btech(CSE)
-August 2018 - July 2018
-CGPA : 8.617
+August 2018 - July 2018                                                                                                                                                     
+CGPA : 8.617                                                                                                                                                              
 
 ## Amity International School, Pushp Vihar Sector - 7, New Delhi - 110017 — 12th
-April 2016 - March 2017
-Percentage : 91.4
+April 2016 - March 2017                                                                                                                                                     
+Percentage : 91.4                                                                                                                                                           
 
 ## Amity International School, Pushp Vihar Sector - 7, New Delhi - 110017 — 10th
-April 2014 - March 2015
+April 2014 - March 2015                                                                                                                                                     
+CGPA : 9.4
 
 ### Skills
 
