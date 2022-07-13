@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Skills
 
 
-######C++
+###C++
 ######Python
 ######MySQL
 ######Machine Learning
