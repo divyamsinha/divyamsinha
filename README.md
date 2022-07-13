@@ -17,13 +17,16 @@ Here are some ideas to get you started:
 
 
 ### Skills
-#### C++
-######Python
-######MySQL
-######Machine Learning
-######Deep Learning
-######Tensorflow
-######OpenCV
-######Golang
-######PHP
-######PostgreSQL
+
+<pre>
+#### C++(Intermediate)
+#### Python(Intermediate)
+#### MySQL(Intermediate)
+#### Machine Learning(Intermediate)
+#### Deep Learning(Intermediate)
+#### Tensorflow(Intermediate)
+#### OpenCV(Intermediate)
+#### Golang(Basic)
+#### PHP(Basic)
+#### PostgreSQL(Intermediate)
+</pre>
