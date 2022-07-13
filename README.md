@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 ### Skills
 
 <pre>
-#### C++(Intermediate)
-#### Python(Intermediate)
-#### MySQL(Intermediate)
-#### Machine Learning(Intermediate)
-#### Deep Learning(Intermediate)
-#### Tensorflow(Intermediate)
-#### OpenCV(Intermediate)
-#### Golang(Basic)
-#### PHP(Basic)
-#### PostgreSQL(Intermediate)
+C++(Intermediate)
+Python(Intermediate)
+MySQL(Intermediate)
+Machine Learning(Intermediate)
+Deep Learning(Intermediate)
+Tensorflow(Intermediate)
+OpenCV(Intermediate)
+Golang(Basic)
+PHP(Basic)
+PostgreSQL(Intermediate)
 </pre>
