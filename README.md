@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Skills
+
+
+######C++
+######Python
+######MySQL
+######Machine Learning
+######Deep Learning
+######Tensorflow
+######OpenCV
+######Golang
+######PHP
+######PostgreSQL
